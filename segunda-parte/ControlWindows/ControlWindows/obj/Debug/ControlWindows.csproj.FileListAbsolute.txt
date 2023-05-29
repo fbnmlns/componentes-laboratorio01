@@ -1,0 +1,8 @@
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\bin\Debug\ControlWindows.dll
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\bin\Debug\ControlWindows.pdb
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.AssemblyReference.cache
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\obj\Debug\ControlWindows.UserControl1.resources
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.GenerateResource.cache
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\obj\Debug\ControlWindows.csproj.CoreCompileInputs.cache
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\obj\Debug\ControlWindows.dll
+C:\dev\2023\Proyecto Ingenieria del Software II\técnico\examen\ControlWindows\ControlWindows\obj\Debug\ControlWindows.pdb
